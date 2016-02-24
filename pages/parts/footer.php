@@ -1,7 +1,7 @@
 
 
 <div class="footer">
-		<p>Fièrement propulsé par SimplonMIP</p>
+		<p><a href="">Mentions légales</a></p>
 	</div>
 	
 </body>

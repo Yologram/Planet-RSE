@@ -1,3 +1,8 @@
+/* padding section page description.html */
+.sj_section{
+  padding: 2%;
+}
+
 .title_color {
 	color: green !important;
 }
@@ -14,6 +19,10 @@
 .footer p {
 	padding-top: 18px;
 }
+<<<<<<< HEAD
 .envoi_fichier {
 	margin-left: 600px;
 }
+=======
+
+>>>>>>> c0c1d50a6fa15f86dce4d2b6e157007f9b754a4a

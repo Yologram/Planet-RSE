@@ -98,7 +98,7 @@ include ('parts/header.php');
 
 
 
-
+</div>
 
 
 <?php
