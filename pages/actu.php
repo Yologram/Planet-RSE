@@ -15,7 +15,8 @@ include ('parts/header.php');
 
 => Mercredi 20 mai de 8h à 9h30 au MEDEF, Nantes : INSCRIPTION</p>
 
-
+</br>
+</br>
 <h1 class="ui dividing header">Actualités</h1>
 </br>
 <div class="ui segment">
