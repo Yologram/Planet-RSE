@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Planet'RSE</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/semantic.css">
-</head>
-<body>
+<?php
+include ('parts/header.php');
+?>
 	
 <div class="ui center aligned grid">
 <div class="ui nine wide left aligned column">
@@ -21,5 +15,8 @@
 <p>A titre d’exemple, le taux d’accidents du travail d’une petite PME du secteur du bâtiment dont 80% des effectifs sont sur le terrain ne peut pas être comparée aux taux d’accidents du travail d’une grande entreprise dont 80% des salariés exercent une fonction de bureau et dont seulement 20% de l’activité du groupe concerne le secteur du bâtiment.</p>
 </div>
 </div>
-</body>
-</html>
+
+
+<?php
+include ('parts/footer.php');
+?>
