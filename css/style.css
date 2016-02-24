@@ -7,6 +7,11 @@
 	color: green !important;
 }
 
+body, html {
+	padding:0;
+	margin:0;
+}
+
 .footer {
 	width: 100%;
 	height: 100px;
@@ -20,4 +25,25 @@
 	padding-top: 25px;
 }
 
-/**/
+.envoi_fichier {
+	margin-left: 600px;
+}
+
+.fg-hero {
+	height:100vh;
+	background-image: url(http://lorempixel.com/1200/700/);
+}
+
+.texte_accueil {
+	width:600px;
+	margin:auto;
+	padding-top:60px;
+	color:white;
+	font-size: 22px;
+	text-shadow: 2px 2px 2px #000;
+}
+
+.image_qui {
+	padding-top:40px;
+}
+

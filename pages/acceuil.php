@@ -1,17 +1,22 @@
+
+
 <?php
 include ('parts/header.php');
 ?>
-
-<div class="ui center aligned grid">
-<div class="ui nine wide left aligned column">
-<h1 class="ui dividing header">Bienvenue</h1>
-
+<div class="fg-hero">
+<div class="texte_accueil">
+<p>Bienvenue</p>
 <p>Bienvenue sur le site de Planet’RSE, Plateforme de Notation et d’Evaluation Territoriale de la RSE.
 L’association a pour vocation de promouvoir la Responsabilité Sociétale des Entreprises et des organisations en élaborant des critères de notation en matière de RSE utilisés pour évaluer chacun de ses membres.</p>
+	
+</div>
+</div>
+<div class="ui center aligned grid">
+<div class="ui nine wide left aligned column">
+
 </br>
 </br>
 
-<img class="ui massive image" src="../images/accueil.jpg">
 
 <h1 class="ui dividing header">Nos dernières actualités</h1>
 </br>
