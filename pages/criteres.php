@@ -25,7 +25,7 @@ include ('parts/header.php');
 	<h1 class=" ui dividing header">Cinq volets</h1>
 	<p>Les critères ont été répartis en cinq groupes : « économique », « social » et « environnemental », « territorial » et « gouvernance ». Ces groupes recouvrent eux-mêmes plusieurs sous-catégories :</p>
 	<div class="column">
-		<div class="ui inverted segment">
+		<div class="ui red inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères environnementaux</h3>
 				<div class="item">Prévention de la pollution</div>
@@ -36,7 +36,7 @@ include ('parts/header.php');
 		</div>
 	</div>
 	<div class="column">
-		<div class="ui inverted segment">
+		<div class="ui yellow inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères de gouvernance</h3>
 				<div class="item">Conditions de travail</div>
@@ -46,7 +46,7 @@ include ('parts/header.php');
 		</div>
 	</div>
 	<div class="column">
-		<div class="ui inverted segment">
+		<div class="ui green inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères sociétaux</h3>
 				<div class="item">Publication du bilan et du compte de résultat</div>
@@ -57,7 +57,7 @@ include ('parts/header.php');
 </div>
 <div class="ui stackable equal width grid">
 	<div class="column">
-		<div class="ui inverted segment">
+		<div class="ui teal inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères sociaux :</h3>
 				<div class="item">Droits fondamentaux</div>
@@ -69,7 +69,7 @@ include ('parts/header.php');
 		</div>
 	</div>
 	<div class="column">
-		<div class="ui inverted segment">
+		<div class="ui violet inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères économiques :</h3>
 				<div class="item">Structure d’entreprise adaptée aux besoins du marché</div>
