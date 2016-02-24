@@ -79,7 +79,7 @@ include ('parts/header.php');
 	</div>
 </div>
 
-
+</div>
 
 
 <?php
