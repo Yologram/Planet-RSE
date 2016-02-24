@@ -1,8 +1,8 @@
 <?php
 include ('parts/header.php');
-?>
-<div class="ui stackable container">
-	<div class="ui stackable grid">
+?>	
+<div class="ui center aligned grid">
+	<div class="ui nine wide left aligned column">
 		<h1 class="ui dividing header">Elaboration des critères</h1>
 		<p>Une première phase d’échanges a permis de déterminer les attentes respectives des acheteurs et des entreprises. Une deuxième étape a consisté à passer en revue l’ensemble des labels et normes actuels ayant trait à la RSE : Global Compact, SA 8000, Nouvelles Régulations Economiques (Loi NRE), Global Reporting Initiative (GRI), Bilan Social, ISO 26000, label LUCIE, VIGEO… Ces phases préalables ont servi de point de départ à la création d’une première version d’indicateurs combinant les attentes des parties prenantes et s’inspirant des référentiels existants. Ces critères ont été testés auprès d’acteurs privés : entreprises membres du CJD, entreprises membres de la Fédération Régionale des Travaux Publics (FRTP), entreprises du secteur de l’imprimerie… Les retours du terrain ont permis d’affiner les indicateurs et de créer une nouvelle version, elle-même à nouveau testée sur le terrain, etc.</p>
 		<h1 class="ui dividing header">Critères universels ?</h1>
@@ -19,11 +19,12 @@ include ('parts/header.php');
 	</br>
 	<p>En plus d’un socle commun d’indicateurs incontournables (handicap, insertion…), des indicateurs élaborés en fonction des spécificités de chaque secteur d’activité viennent se greffer. Cette méthode permet de rendre possible la comparaison entre des entreprises aux activités très différentes tout en offrant un outil précis d’analyse au sein d’un secteur d’activité donné.</p>
 </ol>
-</div>
-<div class="ui stackable four column grid">
+</br>
+</br>
+<div class="ui stackable equal width grid">
 	<h1 class=" ui dividing header">Cinq volets</h1>
 	<p>Les critères ont été répartis en cinq groupes : « économique », « social » et « environnemental », « territorial » et « gouvernance ». Ces groupes recouvrent eux-mêmes plusieurs sous-catégories :</p>
-	<div class="four wide column">
+	<div class="column">
 		<div class="ui inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères environnementaux</h3>
@@ -34,7 +35,7 @@ include ('parts/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="four wide column">
+	<div class="column">
 		<div class="ui inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères de gouvernance</h3>
@@ -44,7 +45,7 @@ include ('parts/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="four wide column">
+	<div class="column">
 		<div class="ui inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères sociétaux</h3>
@@ -53,7 +54,9 @@ include ('parts/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="four wide column">
+</div>
+<div class="ui stackable equal width grid">
+	<div class="column">
 		<div class="ui inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères sociaux :</h3>
@@ -65,7 +68,7 @@ include ('parts/header.php');
 			</div>
 		</div>
 	</div>
-	<div class="four wide column">
+	<div class="column">
 		<div class="ui inverted segment">
 			<div class="ui inverted relaxed divided list">
 				<h3 class="header">Critères économiques :</h3>
@@ -78,6 +81,22 @@ include ('parts/header.php');
 		</div>
 	</div>
 </div>
+</br>
+</br>
+<h1 class="ui dividing centered header">Téléchargement des critères</h1>
+</br>
+</br>
+<div class="ui centered grid">
+<div class="column">
+<a href="../V5-demo-CRITERES-PLANETRSE.xlsx"><button class="ui massive green button envoi_fichier"><i class="download icon"></i>Les Critères</button></a>
+</div>
+</div>
+</div> 
+</div>
+
+
+
+
 
 
 
