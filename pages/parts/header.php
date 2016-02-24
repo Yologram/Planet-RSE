@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <div class="ui top attached massive segment">
+  <div class="ui top attached massive segment menu_header">
     <div class="ui secondary menu">
 
     <div class="item">
