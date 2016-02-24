@@ -1,20 +1,21 @@
 
-
-<<<<<<< HEAD
-<div class="footer menu_header">
-
-	<div class="ui list"></div>
+<div class="footer">
+<div class="boutons_footer">
+	<button class="ui circular facebook icon button">
+		<i class="facebook icon"></i>
+	</button>
+	<button class="ui circular google plus icon button">
+		<i class="google plus icon"></i>
+	</button>
+	<button class="ui circular linkedin icon button">
+		<i class="linkedin icon"></i>
+	</button>
+	<button class="ui circular youtube icon button">
+		<i class="youtube icon"></i>
+	</button> 
+</div>
 	<p><a href="">Mentions légales</a></p>
 </div>
-=======
-<div class="footer">
-	<i class="twitter icon"></i>
-	<i class="facebook icon"></i>
-	<i class="google plus icon"></i>
-	<i class="linkedin icon"></i>
-		<p><a href="">Mentions légales</a></p>
-	</div>
->>>>>>> 981f7dc8e858805add0c83225972aa72d54da614
 
 </body>
 </html>
