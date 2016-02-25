@@ -30,6 +30,8 @@
     <a class="item" href="qui.php">Qui est évalué ?</a>
     <a class="item" href="faq.php">FAQ</a>
     <a class="item" href="contact.php">Contact/Adhésion</a>
+    <a class="item" href="login.php"><button class="ui button login">Se connecter</button></a>
+    <a class="item" href="login.php"><button class="ui button login">S'inscrire</button></a>
   </div>
 </div>
 </div>

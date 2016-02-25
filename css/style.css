@@ -50,3 +50,24 @@ body, html {
 .boutons_footer {
 	padding-top: 15px;
 }
+
+.ui.button.login {
+	padding: none;
+}
+
+.ui.grid.centered.stackable.login {
+	margin-top: 50px;
+}
+
+.ui.horizontal.divider {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.ui.left.icon.input.ui.left.icon.input {
+	width: 500px;
+}
+
+.ui.horizontal.divider {
+	font-size: 2rem;
+}

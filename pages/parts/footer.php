@@ -7,11 +7,11 @@
 	<a href="http://www.zombo.com" target="_blank"><button class="ui circular google plus icon button">
 		<i class="google plus icon"></i>
 	</button></a>
-	<a href="https://www.facebook.com/AmbreAkasora?fref=ts" target="_blank"><button class="ui circular linkedin icon button">
-		<i class="linkedin icon"></i>
+	<a href="https://www.facebook.com/AmbreAkasora?fref=ts" target="_blank"><button class="ui circular twitter icon button">
+		<i class="twitter icon"></i>
 	</button></a>
-	<a href=""><button class="ui circular youtube icon button" target="_blank">
-		<i class="youtube icon"></i>
+	<a href=""><button class="ui circular linkedin icon button" target="_blank">
+		<i class="linkedin icon"></i>
 	</button> </a>
 </div>
 	<p><a href="">Mentions légales</a></p>
