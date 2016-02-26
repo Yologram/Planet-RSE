@@ -1,5 +1,5 @@
 
-<div class="footer">
+<div class="ui vertical footer segment">
 <div class="boutons_footer">
 	<a href="https://www.facebook.com/Cours-rousselot-voltaire-399708106721229/?fref=ts" target="_blank"><button class="ui circular facebook icon button">
 		<i class="facebook icon"></i>

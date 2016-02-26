@@ -76,6 +76,14 @@ body, html {
 	top: 20%;
 }
 
+.simodale.simodale.simodale {
+	top: 20%;
+}
+
 .modfermer:hover{
 	cursor: pointer;
+}
+
+.ui.green.button.signup {
+	margin-top: 10px;
 }

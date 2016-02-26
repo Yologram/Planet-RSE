@@ -1,6 +1,3 @@
-
-
-
 <div class="header">
 <i class="right aligned close icon modfermer"></i>
 	Se connecter
@@ -36,6 +33,3 @@
 <div class="actions">
 	<div class="ui labeled icon green button modenvoyer">Se connecter !<i class="rl-marteau large checkmark icon"> </i></div>
 </div>
-
-
-
