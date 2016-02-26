@@ -1,6 +1,8 @@
 <?php
 include ('parts/header.php');
 ?>	
+</br>
+</br>
 <div class="ui center aligned grid">
 	<div class="ui nine wide left aligned column">
 		<h1 class="ui dividing header">Elaboration des critères</h1>
@@ -26,7 +28,7 @@ include ('parts/header.php');
 	<p>Les critères ont été répartis en cinq groupes : « économique », « social » et « environnemental », « territorial » et « gouvernance ». Ces groupes recouvrent eux-mêmes plusieurs sous-catégories :</p>
 	<div class="column">
 		<div class="ui red inverted segment">
-			<div class="ui inverted relaxed divided list">
+			<div class="ui inverted relaxed list">
 				<h3 class="header">Critères environnementaux</h3>
 				<div class="item">Prévention de la pollution</div>
 				<div class="item">Utilisation durable des ressources</div>
@@ -37,20 +39,29 @@ include ('parts/header.php');
 	</div>
 	<div class="column">
 		<div class="ui yellow inverted segment">
-			<div class="ui inverted relaxed divided list">
+			<div class="ui inverted relaxed list">
 				<h3 class="header">Critères de gouvernance</h3>
 				<div class="item">Conditions de travail</div>
 				<div class="item">Droits fondamentaux</div>
 				<div class="item">Formalisation d’une politique RSE</div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
 	<div class="column">
 		<div class="ui green inverted segment">
-			<div class="ui inverted relaxed divided list">
+			<div class="ui inverted relaxed list">
 				<h3 class="header">Critères sociétaux</h3>
 				<div class="item">Publication du bilan et du compte de résultat</div>
 				<div class="item">Ancrage territorial</div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
@@ -58,25 +69,26 @@ include ('parts/header.php');
 <div class="ui stackable equal width grid">
 	<div class="column">
 		<div class="ui teal inverted segment">
-			<div class="ui inverted relaxed divided list">
+			<div class="ui inverted relaxed list">
 				<h3 class="header">Critères sociaux :</h3>
 				<div class="item">Droits fondamentaux</div>
 				<div class="item">Discrimination/Diversité</div>
 				<div class="item">Santé et sécurité</div>
 				<div class="item">Conditions de travail</div>
 				<div class="item">Emploi</div>
+				<div class="item"></div>
 			</div>
 		</div>
 	</div>
 	<div class="column">
 		<div class="ui violet inverted segment">
-			<div class="ui inverted relaxed divided list">
+			<div class="ui inverted relaxed list">
 				<h3 class="header">Critères économiques :</h3>
 				<div class="item">Structure d’entreprise adaptée aux besoins du marché</div>
 				<div class="item">Santé financière</div>
 				<div class="item">Pérennité de l’entreprise</div>
 				<div class="item">Respect des fournisseurs</div>
-				<div class="item">Respect des publications du Bilan et du Compte de Résultat au greffe du tribunal de commerce</div>
+				<div class="item">Respect des publications du Bilan et du compte de résultat au greffe du tribunal de commerce</div>
 			</div>
 		</div>
 	</div>
@@ -87,9 +99,9 @@ include ('parts/header.php');
 </br>
 </br>
 <div class="ui centered grid">
-<div class="column">
-<a href="../V5-demo-CRITERES-PLANETRSE.xlsx"><button class="ui massive green button envoi_fichier"><i class="download icon"></i>Les Critères</button></a>
-</div>
+	<div class="column">
+		<a href="../V5-demo-CRITERES-PLANETRSE.xlsx"><button class="ui massive green button envoi_fichier"><i class="download icon"></i>Les Critères</button></a>
+	</div>
 </div>
 </div> 
 </div>

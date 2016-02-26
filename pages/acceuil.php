@@ -1,8 +1,7 @@
-
-
 <?php
 include ('parts/header.php');
 ?>
+
 <div class="fg-hero">
 <div class="texte_accueil">
 <p>Bienvenue</p>

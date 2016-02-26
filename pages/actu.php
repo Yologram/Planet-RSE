@@ -1,6 +1,8 @@
 <?php
 include ('parts/header.php');
 ?>
+</br>
+</br>
 
 <div class="ui center aligned grid">
   <div class="ui nine wide left aligned column">
