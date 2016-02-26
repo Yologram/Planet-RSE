@@ -71,3 +71,11 @@ body, html {
 .ui.horizontal.divider {
 	font-size: 2rem;
 }
+
+.comodale.comodale.comodale {
+	top: 20%;
+}
+
+.modfermer:hover{
+	cursor: pointer;
+}

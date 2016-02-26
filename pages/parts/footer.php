@@ -17,5 +17,7 @@
 	<p><a href="">Mentions légales</a></p>
 </div>
 
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/app.js"></script>
 </body>
 </html>

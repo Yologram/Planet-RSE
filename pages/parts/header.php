@@ -31,7 +31,15 @@
     <a class="stackable item" href="faq.php">FAQ</a>
     <a class="stackable item" href="contact.php">Contact/Adhésion</a>
     <a class="stackable item" href="login.php"><button class="ui button login">Se connecter</button></a>
-    <a class="stackable item" href="login.php"><button class="ui button login">S'inscrire</button></a>
+    <a class="stackable item" href="login.php"><button class="ui button signup">S'inscrire</button></a>
   </div>
 </div>
 </div>
+
+
+<div class="ui small modal comodale">
+<?php
+include ('boxConnextion.php');
+?>
+</div>
+
