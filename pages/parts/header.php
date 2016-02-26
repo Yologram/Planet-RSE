@@ -8,8 +8,8 @@
 </head>
 <body>
 
-  <div class="ui top attached massive segment menu_header">
-    <div class="ui secondary menu">
+  <div class="ui top attached massive stackable segment menu_header">
+    <div class="ui secondary stackable menu">
 
 
 <a href="acceuil.php">
@@ -22,16 +22,16 @@
 </a>
 
 
-  <div class="right menu">
-    <a class="item" href="acceuil.php">Accueil</a>
-    <a class="item" href="actu.php">Actualités</a>
-    <a class="item" href="description.php">Génèse du projet Planet'RSE</a>
-    <a class="item" href="criteres.php">Critérisation</a>
-    <a class="item" href="qui.php">Qui est évalué ?</a>
-    <a class="item" href="faq.php">FAQ</a>
-    <a class="item" href="contact.php">Contact/Adhésion</a>
-    <a class="item" href="login.php"><button class="ui button login">Se connecter</button></a>
-    <a class="item" href="login.php"><button class="ui button login">S'inscrire</button></a>
+  <div class="right stackable menu">
+    <a class="stackable item" href="acceuil.php">Accueil</a>
+    <a class="stackable item" href="actu.php">Actualités</a>
+    <a class="stackable item" href="description.php">Génèse du projet Planet'RSE</a>
+    <a class="stackable item" href="criteres.php">Critérisation</a>
+    <a class="stackable item" href="qui.php">Qui est évalué ?</a>
+    <a class="stackable item" href="faq.php">FAQ</a>
+    <a class="stackable item" href="contact.php">Contact/Adhésion</a>
+    <a class="stackable item" href="login.php"><button class="ui button login">Se connecter</button></a>
+    <a class="stackable item" href="login.php"><button class="ui button login">S'inscrire</button></a>
   </div>
 </div>
 </div>

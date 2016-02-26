@@ -8,7 +8,6 @@ include ('parts/header.php');
 <p>Bienvenue</p>
 <p>Bienvenue sur le site de Planet’RSE, Plateforme de Notation et d’Evaluation Territoriale de la RSE.
 L’association a pour vocation de promouvoir la Responsabilité Sociétale des Entreprises et des organisations en élaborant des critères de notation en matière de RSE utilisés pour évaluer chacun de ses membres.</p>
-	
 </div>
 </div>
 <div class="ui center aligned grid">
